@@ -1,8 +1,6 @@
 #include <stdio.h>
-
 /**
- * main - A program that prints all single digit numbers 
- * of base 10 starting from 0
+ * main - A program that print numbers from 0 to 9
  * Return: Always 0 (Success)
  */
 int main(void)
