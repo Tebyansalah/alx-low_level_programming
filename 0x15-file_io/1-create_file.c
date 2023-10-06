@@ -2,6 +2,8 @@
 
 /**
  * create_file - Creates a file.
+ * @filename: the created file name 
+ * @text_content: write to the file
  * Return: If the function fails - -1.
  *         Otherwise - 1.
  */
